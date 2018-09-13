@@ -14,6 +14,38 @@ body {
     text-align: center;
 }
 
+/* Inline the stars and the text with display: inline */
+.instructions-title {
+    display: inline;
+    font-size: 18px;
+    color: #00ffff;
+    font-family: 'Work Sans', sans-serif;
+}
+
+.instructions-row {
+    margin: 0 auto;
+    width: 400px;
+}
+
+.instructions-number {
+    padding-right: 25px;
+    font-family: 'Work Sans';
+    font-size: 36px;
+    color: #00ffff;
+}
+
+.instructions-text {
+    padding: 10px;
+    font-family: 'Work Sans';
+    font-size: 14px;
+    color: #ffffff;
+}
+
+/* center the doors */
+.door-row {
+    text-align: center;
+}
+
 #door2,
 #door3 {
     cursor: pointer;
