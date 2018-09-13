@@ -3,6 +3,11 @@ body {
     margin: 0;
 }
 
-#door1 {
+#door1, #door2, #door3 {
     cursor: pointer;
+}
+
+.door-frame {
+    cursor: pointer;
+    padding: 10px;
 }
