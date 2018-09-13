@@ -8,6 +8,12 @@ body {
     text-align: center;
 }
 
+.title-row {
+    margin-top: 42px;
+    margin-bottom: 21px;
+    text-align: center;
+}
+
 #door2,
 #door3 {
     cursor: pointer;
