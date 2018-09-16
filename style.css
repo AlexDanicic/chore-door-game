@@ -55,3 +55,18 @@ body {
     cursor: pointer;
     padding: 10px;
 }
+
+.start-row {
+    margin: auto;
+    width: 120px;
+    height: 43px;
+    background-color: #eb6536;
+    padding-top: 18px;
+    font-family: 'Work Sans';
+    font-size: 18px;
+    text-align: center;
+    color: #010165;
+    margin-bottom: 9px;
+    cursor: pointer;
+    border-radius: 5px;
+}
